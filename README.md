@@ -1,16 +1,11 @@
 # appone
 
-A new Flutter project.
+A Basic ToDo App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project features a simple and intuitive task management system.
+Users can add tasks, mark them as completed with a checkbox, and view their progress.
+All tasks are saved locally on the device, ensuring that your todo list remains available even after closing the app.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##
